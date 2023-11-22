@@ -16,6 +16,9 @@ namespace UMI_1_Task1
         
         }
 
+
+        public SubclassPrototype() { }
+
         public Prototype clone()
         {
 

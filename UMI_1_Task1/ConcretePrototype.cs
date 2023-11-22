@@ -17,6 +17,9 @@ namespace UMI_1_Task1
 
         }
 
+
+        public ConcretePrototype() { }
+
         public Prototype clone()
         {
 
